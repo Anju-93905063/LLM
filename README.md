@@ -28,15 +28,15 @@ This project is a complete implementation of a **fully local Retrieval-Augmented
 ## 📦 Setup Instructions
 
 ### 1. Clone the Repo
-git clone https://github.com/Anju-93905063/LLM.git
-cd LLM
-2. Create a Virtual Environment
-python -m venv venv
-venv\Scripts\activate  # On Windows
-3. Install Dependencies
-pip install -r requirements.txt
-4. Launch Jupyter Notebook
-jupyter notebook
+- git clone https://github.com/Anju-93905063/LLM.git
+- cd LLM
+### 2. Create a Virtual Environment
+- python -m venv venv
+- venv\Scripts\activate  # On Windows
+### 3. Install Dependencies
+- pip install -r requirements.txt
+### 4. Launch Jupyter Notebook
+- jupyter notebook
 
 📌 Example Use Case
 "Query a 1,200-page PDF and get LLM-generated answers grounded in the document — all without internet."
